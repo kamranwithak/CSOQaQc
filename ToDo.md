@@ -13,7 +13,7 @@ There's still many things that need to be done in regards to our zero values, so
 * In terms of the original tests we have been running I still need to do maximum depth cutoff tests with the max snowprobe length to rule out observations that are too large. It's worth noting that this may only be smart to do on MountainHub data as it appears as though SnowPilot has it's own form of depth collection with their own procedures.
 
 
-## Some things that I need to do very very soon...
+## Some things that I need to do very very soon..
 
 * I need to create some repositories for everything I've done so far. I should have all the tools and experience to do this but I've been somewhat procrasinating this. I will have this done by Saturday.
 
