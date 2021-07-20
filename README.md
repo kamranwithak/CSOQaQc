@@ -22,7 +22,7 @@ These txt files containing the raw CSO data. They are needed to run many of the 
   * `CSOQaQcSPRING.ipynb`
   * `CSOZeros.ipynb`
   * `CSOLARGE.ipynb`
-  * `CSOAlasak.ipynb`
+  * `CSOAlaska.ipynb`
 
 These are the notebooks that I have been maintaining and using throughout this internship and research opportunity. `CSOQaQcSPRING` is the main notebook I used to experiment and get comfortable with the data. It is outdated and very rough. All other notebooks come from the work I did during the Summer of 2021.
 
